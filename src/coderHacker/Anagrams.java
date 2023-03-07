@@ -3,9 +3,8 @@ package coderHacker;
 import java.util.Scanner;
 
 public class Anagrams {
-
-	 
-		   @SuppressWarnings("unused")
+	
+		 @SuppressWarnings("unused")
 		static boolean isAnagram(String a, String b) {
 		         a=a.toLowerCase();
 		         b= b.toLowerCase();
